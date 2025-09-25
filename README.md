@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;EcoSmart+Founder;Mobile+%26+Web+Developer;AI+%26+IoT+Enthusiast&size=25&color=36BCF7)](https://git.io/typing-svg)
 
+# 👋 Hey there, I’m Fadoua!  
+
+💻 A Software Engineer from Algeria, passionate about coding, green technology, and problem-solving.  
+🚀 Founder of **EcoSmart**, my startup project that combines mobile apps, AI, and IoT to improve recycling.  
+📚 Always learning — right now I’m diving deeper into **Spring Boot**, **Flutter**, and **Cloud deployments**.  
+
+✨ Fun fact: I love designing Discord servers and mentoring others in programming.  
+
 💻 Software Engineer | 🚀 Startup Founder (EcoSmart) | 📱 Passionate about mobile, web & sustainable tech  
 🌍 Open to opportunities in Europe & the Middle East  
 
@@ -74,6 +82,3 @@
 - ✉️ [fadoua.ounissi@univ-constantine2.dz](mailto:fadoua.ounissi@univ-constantine2.dz)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ounissi-fadoua-a138b2381/)  
 - 🎮 Discord: `#yellowball00n`  
-
----
-
