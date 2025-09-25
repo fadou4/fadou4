@@ -9,7 +9,6 @@
 
 ## 🔭 Currently Working On
 - ♻️ **EcoSmart Revolution** – Intelligent recycling app with Flutter, TensorFlow Lite & Arduino  
-- 🛒 **Online Shop Web Application** – Spring Boot, REST APIs, Hibernate, Spring Security  
 - 🌐 **Waste Classification Web App** – Flask & Bootstrap with AI for waste sorting  
 
 ---
@@ -78,6 +77,3 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FadouaOunissi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadouaOunissi&layout=compact&theme=radical)  
