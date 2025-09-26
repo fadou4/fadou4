@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Fadoua Ounissi
+# 👋 Hey there, I’m Fadoua!  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;EcoSmart+Founder;Mobile+%26+Web+Developer;AI+%26+IoT+Enthusiast&size=25&color=36BCF7)](https://git.io/typing-svg)
 
-# 👋 Hey there, I’m Fadoua!  
+
 
 💻 A Software Engineer from Algeria, passionate about coding, green technology, and problem-solving.  
 🚀 Founder of **EcoSmart**, my startup project that combines mobile apps, AI, and IoT to improve recycling.  
