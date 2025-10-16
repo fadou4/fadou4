@@ -80,5 +80,5 @@
 
 ## 📫 Contact
 - ✉️ [fadoua.ounissi@univ-constantine2.dz](mailto:fadoua.ounissi@univ-constantine2.dz)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ounissi-fadoua-a138b2381/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fadoua-ounissi-a138b2381/)  
 - 🎮 Discord: `#yellowball00n`  
